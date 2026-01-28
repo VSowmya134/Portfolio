@@ -1,12 +1,64 @@
-# React + Vite
+Portfolio Website - V. Sowmya
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React, Vite, and Tailwind CSS. It showcases my skills, projects, experience, and contact information.
 
-Currently, two official plugins are available:
+The website is deployed on GitHub Pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo
 
-## Expanding the ESLint configuration
+Check out the live version here: https://vsowmya134.github.io/Portfolio/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚠️ Note: If the live page shows blank, it may be due to GitHub Pages requiring a proper base path. You can run the project locally to see it working correctly.
+
+Features
+
+Fully responsive layout for desktop and mobile
+
+Smooth animations using Framer Motion
+
+Project cards with images and descriptions
+
+Contact form (frontend-only)
+
+Tailwind CSS styling for professional look
+
+Organized sections: Home, About, Experience, Skills, Projects, Certifications, Contact
+
+Tech Stack
+
+Frontend: React, Vite, Tailwind CSS, Framer Motion
+
+Icons: React Icons, Lucide React
+
+3D & Animations: @react-three/fiber, @react-three/drei
+
+Deployment: GitHub Pages
+
+Run Locally
+
+Follow these steps to run the project on your local machine:
+
+Clone the repository
+
+git clone https://github.com/vsowmya134/Portfolio.git
+
+
+Navigate into the project directory
+
+cd Portfolio
+
+
+Install dependencies
+
+npm install
+
+
+Start the development server
+
+npm run dev
+
+
+Open your browser
+
+Go to http://localhost:5173/
+ to view the project locally.

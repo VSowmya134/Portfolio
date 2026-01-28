@@ -11,6 +11,12 @@ Check out the live version here: [https://vsowmya134.github.io/Portfolio/](https
 ⚠️ **Note:** If the live page shows blank, it may be due to GitHub Pages requiring a proper **base path**. You can run the project locally to see it working correctly.
 
 ---
+## 🎥 Project Demo Video
+
+Watch the full video of the Portfolio Project 👇  
+
+<u><b>[https://drive.google.com/file/d/1mg1tj7m1GqiUwtLwdz07DLLPVUzn_Rno/view?usp=sharing](https://drive.google.com/file/d/1mg1tj7m1GqiUwtLwdz07DLLPVUzn_Rno/view?usp=sharing)</b></u>
+
 
 ## **Features**
 
@@ -73,6 +79,7 @@ export default defineConfig({
 Notes
 This project is meant for showcasing my portfolio and frontend skills.
 Ensure Node.js >= v18 and npm installed for running locally.
+
 
 
 

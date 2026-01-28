@@ -15,7 +15,7 @@ Check out the live version here: [https://vsowmya134.github.io/Portfolio/](https
 
 Watch the full video of the Portfolio Project 👇  
 
-<u><b>[[https://drive.google.com/file/d/1mg1tj7m1GqiUwtLwdz07DLLPVUzn_Rno/view?usp=sharing](https://drive.google.com/file/d/1mT6R0NaNChQ5HtKAGqB0Y-qW52jr6_3J/view?usp=sharing)]([https://drive.google.com/file/d/1mg1tj7m1GqiUwtLwdz07DLLPVUzn_Rno/view?usp=sharing](https://drive.google.com/file/d/1mT6R0NaNChQ5HtKAGqB0Y-qW52jr6_3J/view?usp=sharing))</b></u>
+<u><b>[[https://drive.google.com/file/d/1mg1tj7m1GqiUwtLwdz07DLLPVUzn_Rno/view?usp=sharing](https://drive.google.com/file/d/1mT6R0NaNChQ5HtKAGqB0Y-qW52jr6_3J/view?usp=sharing)]</b></u>
 
 
 ## **Features**
@@ -79,6 +79,7 @@ export default defineConfig({
 Notes
 This project is meant for showcasing my portfolio and frontend skills.
 Ensure Node.js >= v18 and npm installed for running locally.
+
 
 
 

@@ -76,3 +76,4 @@ Ensure Node.js >= v18 and npm installed for running locally.
 
 The contact form is currently frontend-only. A backend (Node.js + Nodemailer) can be added for email functionality.
 
+
